@@ -1,0 +1,18 @@
+{
+    "name": "zhujunhao/fy-sdk",
+    "description": "sdk",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zhujunhao",
+            "email": "zhujunhao@xmfengyang.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fysdk\\factory\\" : "src/factory",
+            "fysdk\\sdk\\\\" : "src/sdk"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3d5b58a-e68b-4a5a-9da9-154105edd345" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1rMvEv30MPqFzlAn3yymt8rps0f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sdk" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sdk" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/factory" />
+      <recent name="$PROJECT_DIR$/src/sdk" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d5b58a-e68b-4a5a-9da9-154105edd345" name="Default Changelist" comment="" />
+      <created>1618798664503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618798664503</updated>
+      <workItem from="1618798666137" duration="9456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1618813314331">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="521" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1618813314331" />
+    <state x="235" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618812906810">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="235" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1618812906810" />
+    <state x="527" y="178" key="NewPhpClassDialog" timestamp="1618812936580">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="527" y="178" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1618812936580" />
+  </component>
+</project>
