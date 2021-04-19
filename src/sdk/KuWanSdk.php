@@ -4,7 +4,7 @@
 namespace fysdk\sdk;
 
 
-use fysdk\factory\SdkInterface;
+use fysdk\sdk\SdkInterface;
 
 class KuWanSdk extends BaseSdk implements SdkInterface
 {

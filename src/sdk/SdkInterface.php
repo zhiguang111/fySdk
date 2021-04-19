@@ -1,7 +1,7 @@
 <?php
 
 
-namespace fysdk\factory;
+namespace fysdk\sdk;
 
 
 interface SdkInterface

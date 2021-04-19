@@ -11,8 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "fysdk\\factory\\" : "src/factory",
-            "fysdk\\sdk\\\\" : "src/sdk"
+            "fysdk\\sdk\\" : "src/sdk/"
         }
     }
 }

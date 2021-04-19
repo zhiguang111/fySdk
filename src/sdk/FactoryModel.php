@@ -1,6 +1,6 @@
 <?php
 
-namespace fysdk\factory;
+namespace fysdk\sdk;
 
 class FactoryModel  implements sdkFactoryInterface
 {
