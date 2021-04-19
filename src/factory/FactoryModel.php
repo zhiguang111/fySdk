@@ -21,13 +21,14 @@ class FactoryModel  implements sdkFactoryInterface
      * @return mixed
      * Author by(aurora)
      * @param $sdk
+     * @param $argument
      * Data 2021/4/19
      * Time 10:37 上午
      */
-    public static function creatSdkFactory($sdk)
+    public static function creatSdkFactory($sdk, $argument)
     {
         if (is_null(self::$sdk)) {
-            self::$sdk = new $sdk();
+            self::$sdk = new $sdk($argument);
         }
 
         return self::$sdk;
