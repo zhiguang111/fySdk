@@ -10,13 +10,9 @@ class ShengDanSdk extends BaseSdk implements SdkInterface
 {
     /**
      * 数据库
-     * @var
+     * @var Pdo
      */
     private $db;
-
-    private $fd;
-
-    private $table;
 
     public function __construct($argument)
     {
@@ -24,42 +20,14 @@ class ShengDanSdk extends BaseSdk implements SdkInterface
     }
 
     /**
-     * @return mixed
+     * 可执行原生sql
+     * @param $type  'INSERT'，'UPDATE','DELETE','SELECT'
+     * @param $query
+     * @throws \Exception
      */
-    public function getDb()
+    public function querySql($type, $query)
     {
-        return $this->db;
+        $this->db->query($type, $query);
     }
 
-    /**
-     * @return mixed
-     */
-    public function getFd()
-    {
-        return $this->fd;
-    }
-
-    /**
-     * @return mixed
-     */
-    public function getTable()
-    {
-        return $this->table;
-    }
-
-    public function setArgument($table, $fd)
-    {
-        $this->table = $table;
-        $this->fd = $fd;
-    }
-
-    public function find()
-    {
-
-    }
-
-    public function select()
-    {
-
-    }
 }
