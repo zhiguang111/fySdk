@@ -18,11 +18,9 @@ class BaseSdk
      */
     protected function __construct($argument)
     {
-       $argument['dns']  = "mysql:host=".$argument['host'].";port=".$argument['port'].";dbname=".$argument['dbName'].";";
+       $argument['dsn']  = "mysql:host=".$argument['host'].";port=".$argument['port'].";dbname=".$argument['dbName'].";";
 
-       $this->db = Pdo::getInstance([
-           $argument['dns'],$argument['username'],$argument['password']
-       ]);
+       $this->db = Pdo::getInstance($argument);
     }
 
     /**
