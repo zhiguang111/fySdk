@@ -16,6 +16,7 @@ class Pdo
     private $order;
     private $limit;
     private $sql;
+    private $cpSql;
 
     private $transaction = 0;
 
@@ -337,9 +338,7 @@ class Pdo
         }
 
         if (!empty($sql)) $this->sql = $sql;
-
-//        var_dump($this->sql);
-
+        $this->cpSql = $this->sql;
         try {
             $this->PdoStmt = $this->Pdo->prepare($this->sql);
             $result =  $this->PdoStmt->execute(explode(', ', $this->fieldsVal));
@@ -458,4 +457,8 @@ class Pdo
         $this->sql = null;
     }
 
+    public function getSql()
+    {
+        return $this->cpSql;
+    }
 }

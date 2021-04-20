@@ -11,8 +11,4 @@ class WanWanSdk extends BaseSdk
         parent::__construct($argument);
     }
 
-    public function getUserInfo($userId, $table)
-    {
-
-    }
 }
