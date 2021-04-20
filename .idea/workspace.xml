@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3d5b58a-e68b-4a5a-9da9-154105edd345" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdk/BaseSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/BaseSdk.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/HaiWanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/HaiWanSdk.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/HuiWanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/HuiWanSdk.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/KuWanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/KuWanSdk.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sdk/SdkInterface.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/ShengDanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/ShengDanSdk.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/WanWanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/WanWanSdk.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sdk/XiangWanSdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/sdk/XiangWanSdk.php" afterDir="false" />
@@ -60,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/KuWanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="66">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -69,8 +68,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/FactoryModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="42" />
+            <state relative-caret-position="571">
+              <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -78,17 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/HuiWanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="66">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/HaiWanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="66">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -96,8 +95,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/WanWanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="7" selection-start-line="7" selection-end-line="28" />
+            <state relative-caret-position="242">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sdk/BaseSdk.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -114,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/XiangWanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="132">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -123,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sdk/ShengDanSdk.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="110">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -140,11 +148,12 @@
         <option value="$PROJECT_DIR$/src/sdk/SdkInterface.php" />
         <option value="$PROJECT_DIR$/src/sdk/Pdo.php" />
         <option value="$PROJECT_DIR$/src/sdk/XiangWanSdk.php" />
-        <option value="$PROJECT_DIR$/src/sdk/WanWanSdk.php" />
-        <option value="$PROJECT_DIR$/src/sdk/ShengDanSdk.php" />
         <option value="$PROJECT_DIR$/src/sdk/KuWanSdk.php" />
-        <option value="$PROJECT_DIR$/src/sdk/HuiWanSdk.php" />
         <option value="$PROJECT_DIR$/src/sdk/HaiWanSdk.php" />
+        <option value="$PROJECT_DIR$/src/sdk/HuiWanSdk.php" />
+        <option value="$PROJECT_DIR$/src/sdk/ShengDanSdk.php" />
+        <option value="$PROJECT_DIR$/src/sdk/WanWanSdk.php" />
+        <option value="$PROJECT_DIR$/src/sdk/BaseSdk.php" />
       </list>
     </option>
   </component>
@@ -242,12 +251,20 @@
       <workItem from="1618885202509" duration="19000" />
       <workItem from="1618885235542" duration="329000" />
       <workItem from="1618885600472" duration="45000" />
-      <workItem from="1618885658101" duration="3133000" />
+      <workItem from="1618885658101" duration="4606000" />
     </task>
+    <task id="LOCAL-00001" summary="change:interface">
+      <created>1618889003596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618889003596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4073000" />
+    <option name="totallyTimeSpent" value="5546000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,9 +279,9 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22961374" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4980494" visible="true" weight="0.22961374" />
+      <window_info id="Structure" order="1" sideWeight="0.50065017" side_tool="true" weight="0.22961374" />
+      <window_info id="Favorites" order="2" sideWeight="0.50195056" side_tool="true" weight="0.22961374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -274,8 +291,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32899868" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32899868" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32769832" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -320,6 +337,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change:interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="change:interface" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="521" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1618813314331">
       <screen x="0" y="23" width="1440" height="877" />
@@ -335,24 +356,10 @@
     <state x="527" y="178" key="NewPhpClassDialog/0.23.1440.877@0.23.1440.877" timestamp="1618812936580" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sdk/BaseSdk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sdk/SdkFactoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sdk/FactoryModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -370,45 +377,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdk/FactoryModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sdk/XiangWanSdk.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sdk/WanWanSdk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="7" selection-start-line="7" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sdk/ShengDanSdk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sdk/KuWanSdk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sdk/HuiWanSdk.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="66">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdk/KuWanSdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdk/ShengDanSdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sdk/HaiWanSdk.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="66">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdk/WanWanSdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdk/BaseSdk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
