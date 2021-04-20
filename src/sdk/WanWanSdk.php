@@ -9,6 +9,4 @@ class WanWanSdk extends BaseSdk
     {
         parent::__construct($argument);
     }
-
-
 }

@@ -11,15 +11,18 @@ class BaseSdk
      * @var Pdo
      */
     protected $db;
+
     /**
      * BaseSdk constructor.
      * @param $argument array
      */
     protected function __construct($argument)
     {
-        $this->db = Pdo::getInstance([
-            $argument['dns'],$argument['username'],$argument['password']
-        ]);
+       $argument['dns']  = "mysql:host=".$argument['host'].";port=".$argument['port'].";dbname=".$argument['dbName'].";";
+
+       $this->db = Pdo::getInstance([
+           $argument['dns'],$argument['username'],$argument['password']
+       ]);
     }
 
     /**
